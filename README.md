@@ -25,7 +25,7 @@ Steps to reproduce
 - This link will use YARP and call the WebApplicationForm app
 - Since its a GET, it works correctly
 - Clik the button to postback the form
-- The application hangs and returnina 504 after a while
+- The application hangs and returns 504 after a while
 
 #
 - STEP 3
