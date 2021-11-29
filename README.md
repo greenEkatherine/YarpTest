@@ -1,6 +1,6 @@
 # YarpTest
 
-This is justa test app to replicate what appears to be a bug in YARP.  
+This is just a test app to replicate what appears to be a bug in YARP.  
 Maybe its not, i don't know.  
 But this shows the behaviour.  
 
