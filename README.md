@@ -13,7 +13,7 @@ Steps to reproduce
 - Run application 
 - Open url http://localhost:44334/Test.aspx 
 - Click the button and the postback works as expected   
-(This app has no https as it represents an app no certificate, behind a load balancer with the certificate, this however has no influance in the behaviour)
+(This app has no https as it represents an app with no certificate, behind a load balancer with the certificate, this however has no influance in the behaviour)
 
 #
 
