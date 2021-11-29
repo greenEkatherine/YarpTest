@@ -12,7 +12,7 @@ Steps to reproduce
 - Open WebApplicationForm solution
 - Run application 
 - Open url http://localhost:44334/Test.aspx 
-- Click the button and the postback as expected 
+- Click the button and the postback works as expected 
 (This app has no https as it represents an app behind a load balancer with no certificate, this however has no influance in the behaviour)
 
 #
